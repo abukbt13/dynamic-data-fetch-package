@@ -1,9 +1,9 @@
 <?php
 
-namespace Vendor\DynamicDataFetchPackage\Console;
+namespace abukbt13\DynamicDataFetchPackage\Console;
 
 use Illuminate\Console\Command;
-use Vendor\DynamicDataFetchPackage\Services\DataFetchService;
+use abukbt13\DynamicDataFetchPackage\Services\DataFetchService;
 
 class FetchDataCommand extends Command
 {

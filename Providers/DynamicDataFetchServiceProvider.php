@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\DynamicDataFetchPackage\Providers;
+namespace abukbt13\DynamicDataFetchPackage\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Vendor\DynamicDataFetchPackage\Console\FetchDataCommand;
