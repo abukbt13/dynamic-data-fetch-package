@@ -1,5 +1,5 @@
 {
-    "name": "vendor/dynamic-data-fetch-package",
+    "name": "abukbt13/dynamic-data-fetch-package",
     "description": "A package for dynamically fetching data using Artisan commands",
     "type": "metapackage",
     "license": "MIT",
