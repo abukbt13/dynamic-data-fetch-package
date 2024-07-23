@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Vendor\\DynamicDataFetchPackage\\' => array($baseDir . '/src'),
+    'Abukbt13\\DynamicDataFetchPackage\\' => array($baseDir . '/src'),
 );

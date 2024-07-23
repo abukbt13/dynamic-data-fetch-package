@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit5599a4b45d86fa6041efa4a5697d7c3d
 {
     public static $prefixLengthsPsr4 = array (
-        'V' => 
+        'A' => 
         array (
-            'Vendor\\DynamicDataFetchPackage\\' => 31,
+            'Abukbt13\\DynamicDataFetchPackage\\' => 33,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Vendor\\DynamicDataFetchPackage\\' => 
+        'Abukbt13\\DynamicDataFetchPackage\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
