@@ -1,11 +1,11 @@
 {
     "name": "abukbt13/dynamic-data-fetch-package",
     "description": "A package for dynamically fetching data using Artisan commands",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "abukbt13\\DynamicDataFetchPackage\\": "src/"
+            "Abukbt13\\DynamicDataFetchPackage\\": "src/"
         }
     },
     "authors": [
@@ -17,14 +17,12 @@
     "extra": {
         "laravel": {
             "providers": [
-                "abukbt13\\DynamicDataFetchPackage\\Providers\\DynamicDataFetchServiceProvider"
+                "Abukbt13\\DynamicDataFetchPackage\\Providers\\DynamicDataFetchServiceProvider"
             ]
         }
     },
-
-            "minimum-stability": "dev",
-            "prefer-stable": true,
-
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^8.0|^8.1|^8.2|^8.3",
         "illuminate/support": "^8.0|^9.0|^10.0|11.*"

@@ -1,6 +1,6 @@
 <?php
 
-namespace abukbt13\DynamicDataFetchPackage\Services;
+namespace Abukbt13\DynamicDataFetchPackage\Services;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
